@@ -1,4 +1,4 @@
-scrapes 5 companies financial news information
+web scraped 5 companies financial news information
 
 the output will be in the format date|newsheadline
 
